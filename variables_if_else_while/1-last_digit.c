@@ -3,8 +3,13 @@
 #include <stdio.h>
 
 /**
- * prints its last digit
- * Return: Always 0
+ * main - generates a random number and prints its last digit
+ *
+ * This program generates a random number, calculates its last digit,
+ * and prints a message describing if the last digit is greater than 5,
+ * 0, or less than 6 and not 0.
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
